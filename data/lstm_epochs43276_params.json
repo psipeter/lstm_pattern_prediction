@@ -1,0 +1,1 @@
+[{"index":0,"batch_size":16,"epochs":[1,4,7,10,13,16,19,22,25,28,31,34,37,40,43,46,49],"filename":"lstm_epochs","final_activation":"hard_sigmoid","items":20,"loss":"mse","lstm_size":64,"optimizer":"adam","pattern":"random","samples_test":500,"samples_train":1000,"t_back":5,"t_forward":1,"timesteps":100,"train_on":0}]

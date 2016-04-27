@@ -1,0 +1,1 @@
+[{"index":0,"batch_size":16,"epochs":5,"filename":"lstm_main","final_activation":"hard_sigmoid","items":20,"loss":"mse","lstm_size":64,"optimizer":"adam","pattern":"linear-time","samples_test":50,"samples_train":100,"t_back":5,"t_forward":50,"timesteps":100,"train_on":0}]

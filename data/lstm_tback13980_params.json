@@ -1,0 +1,1 @@
+[{"index":0,"batch_size":16,"epochs":200,"filename":"lstm_tback","final_activation":"hard_sigmoid","items":20,"loss":"mse","lstm_size":64,"optimizer":"adam","pattern":"random","samples_test":500,"samples_train":1000,"t_back":[1,3,5,7],"t_forward":50,"timesteps":100,"train_on":0}]
